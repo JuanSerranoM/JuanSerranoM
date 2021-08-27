@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JuanSerranoM
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Java
+- 📫 How to reach me 
